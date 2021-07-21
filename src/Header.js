@@ -11,15 +11,15 @@ function Header() {
                 <PersonIcon fontSize="large" className="header__icon" />
             </IconButton>
 
-            <img 
-                className="header__logo" 
-                src="https://p.kindpng.com/picc/s/19-195266_tinder-icon-2017-logo-vector-gradient-tinder-logo.png" 
+            <img
+                className="header__logo"
+                src="https://p.kindpng.com/picc/s/19-195266_tinder-icon-2017-logo-vector-gradient-tinder-logo.png"
                 alt="" />
 
             <IconButton>
                 <ForumIcon fontSize="large" className="header__icon" />
             </IconButton>
-            
+
         </div>
     )
 }
