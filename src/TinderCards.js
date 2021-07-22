@@ -6,7 +6,7 @@ function TinderCards() {
     const [people, setPeople] = useState([
         {
             name: 'Elon Musk',
-            url: 'https://image.shutterstock.com/image-photo/pretty-student-girl-studying-remotely-260nw-1942302184.jpg'
+            url: 'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1000&h=500&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F38%2F2017%2F05%2F12232824%2Fshutterstock_498576862.jpg'
         },
         {
             name: 'Jeff Bezoz',
